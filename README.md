@@ -10,5 +10,5 @@ Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), а 
 
 Разработанная плата разведена на 2-х стороннем текстолите,  для заказа на производстве прилагаются [GERBER](https://github.com/co-Palko/Develop_board_CC2652R_v1/tree/main/gerber/) и BOM файлы, а размер компонентов подходит для самостоятельной сборки.  
 Форм-фактор платы расчитан как на применение в качестве  самостоятельного устройства с батарейным либо внешним питанием, так и в качестве встраиваемого устройства для обеспечения сбора и передачи информации с различных датчиков и от внешних сигналов.  
-Конфигурация платы подразумевает возможность установки ее в фабрично изготовленный корпус типа AK-W-48 (SZOMK factory) либо BMW50032-A1 (RTKLM factory). 
+Конфигурация платы подразумевает возможность установки ее в фабрично изготовленный корпус типа AK-W-48 ([SZOMK](https://myszomk.ru/product/ak-w-48) factory) либо [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory). 
 
