@@ -21,7 +21,8 @@ Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), а 
   
 Конфигурация платы подразумевает возможность установки ее в фабрично изготовленный корпус типа [AK-W-48](https://myszomk.ru/product/ak-w-48) (SZOMK factory) либо [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory) с минимальной доработкой для вывода разъемов. 
 ![alt tag](https://github.com/co-Palko/Develop_board_CC2652R_v1/blob/main/images/Dimension.PNG)
-Исходные файлы для сборки прошивки находятся по [ССЫЛКЕ](https://github.com/diyruz/SensBoard)
+Исходные файлы для сборки прошивки находятся по [ССЫЛКЕ](https://github.com/diyruz/SensBoard).  
+![alt tag](https://github.com/co-Palko/Dev_board_CC2652R_v1/blob/main/images/Assembled.jpg)
 
 
 # In English
