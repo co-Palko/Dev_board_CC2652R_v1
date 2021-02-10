@@ -19,7 +19,7 @@ Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), а 
 При необходимости есть возможность отделения половины платы с интерфейсными разъемами 3.5мм для уменьшения внешних габаритов устройства.   
   
   
-Конфигурация платы подразумевает возможность установки ее в фабрично изготовленный корпус типа [AK-W-48](https://www.chinaenclosure.com/products/Wall-mounted-abs-plastic-electronics-enclosures-AK-W-48-81x41x20mm.html) (SZOMK factory) либо [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory) с минимальной доработкой для вывода разъемов. 
+Конфигурация платы подразумевает возможность установки ее в фабрично изготовленный корпус типа [AK-W-48](https://myszomk.ru/product/ak-w-48) (SZOMK factory) либо [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory) с минимальной доработкой для вывода разъемов. 
 ![alt tag](https://github.com/co-Palko/Develop_board_CC2652R_v1/blob/main/images/Dimension.PNG)
 Исходные файлы для сборки прошивки находятся по [ССЫЛКЕ](https://github.com/diyruz/SensBoard)
 
@@ -41,6 +41,6 @@ Initially, there are three standard 4-pin 3.5mm connectors, to which the main in
 If necessary, it is possible to separate half of the board with 3.5mm interface connectors to reduce the external dimensions of the device.
   
   
-The configuration of the board implies the ability to install it in a factory-made case like [AK-W-48](https://myszomk.ru/product/ak-w-48) (SZOMK factory) or [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory) with minimal revision for output connectors.  
+The configuration of the board implies the ability to install it in a factory-made case like [AK-W-48](https://www.chinaenclosure.com/products/Wall-mounted-abs-plastic-electronics-enclosures-AK-W-48-81x41x20mm.html) (SZOMK factory) or [BMW50032-A1](https://aliexpress.ru/item/Wall-mounting-junction-box-for-electronic-plastic-enclosure-connector-diy-plastic-box-for-electronics-project-81/32906762106.html) (RTKLM factory) with minimal revision for output connectors.  
 
 Source files for building the firmware are located at the [LINK](https://github.com/diyruz/SensBoard)
