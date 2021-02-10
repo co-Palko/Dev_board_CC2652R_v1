@@ -1,7 +1,7 @@
 # Devboard_CC2652R_v1 (on development stage)
 Development and universal sensor board, with zigbee RF-BM-2652B1 module. 
 
-Устройство разработано на основе беспроводного модуля компании RF-Star, и включает в себя радиочастотный микроконтроллер ARM Cortex M4F поддерживающий протоколы: Thread,
+Устройство разработано на основе беспроводного модуля компании RF-Star, и включает в себя радиочастотный микроконтроллер CC2652RB (ARM Cortex M4F) от TI, поддерживающий протоколы: Thread,
 Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), а также проприетарные протоколы включая TI 15.4-Stack (2,4 ГГц), и одновременную многопротокольную работу через Dynamic Multiprotocol Manager (DMM).  
 
 Основная схемотехника функционально повторяет плату разработчика LAUNCHXL-CC26X2R1 Evaluation board, исключая средства отладки и мониторинга. Это позволяет использовать стандартные примеры программного обеспечения и библиотеки от указанной платы. 
@@ -26,7 +26,7 @@ Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), а 
 
 # In English
 
-The device is based on the RF-Star wireless module and includes an ARM Cortex M4F RF microcontroller supporting the following protocols: Thread,
+The device is based on the RF-Star wireless module and includes an CC2652RB (ARM Cortex M4F) RF microcontroller supporting the following protocols: Thread,
 Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), as well as proprietary protocols including TI 15.4-Stack (2.4 GHz), and simultaneous multi-protocol operation via Dynamic Multiprotocol Manager (DMM).
 
 The main functionally repeats the LAUNCHXL-CC26X2R1 Evaluation board, excluding debugging and monitoring tools. This allows the use of standard software samples and libraries from the specified board.
