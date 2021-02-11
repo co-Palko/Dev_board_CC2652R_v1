@@ -34,9 +34,12 @@ Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4, IPv6-enabled (6LoWPAN), as 
 The main functionally repeats the LAUNCHXL-CC26X2R1 Evaluation board, excluding debugging and monitoring tools. This allows the use of standard software samples and libraries from the specified board.
 
 The form factor of the board is designed both for use as an independent device with battery (CR2032 battery) or external power supply (microUSB or PIN connector), and as a built-in device for collecting and transmitting information from various sensors and inputting external signals.
-The microcontroller has a standard I/O ports with 3.3 V logic, pins with increased load capacity, pins with ADC capability and supports a set of standard interfaces (I2C, UART, SPI).
-Along the perimeter of the board, there are contact pads with a pitch of 2.54 mm, to which most of the controller pins are brought out, including power, programming and JTAG debugging pins.
-The developed board is wired on a 2-sided PCB, [GERBER](https://github.com/co-Palko/Develop_board_CC2652R_v1/tree/main/gerber/) and BOM files are attached to the production order, and the size of the components is suitable for independent assembly. The schematic diagram of the device is presented at [LINK](https://github.com/co-Palko/Dev_board_CC2652R_v1/blob/main/images/Schematic_Devboard_mini_cc2652r-v1.png).
+The microcontroller has a standard I/O ports with 3.3 V logic, pins with increased load capacity, pins with ADC capability and supports a set of standard interfaces (I2C, UART, SPI).  
+
+Along the perimeter of the board, there are contact pads with a pitch of 2.54 mm, to which most of the controller pins are brought out, including power, programming and JTAG debugging pins.  
+
+The developed board is wired on a 2-sided PCB, [GERBER](https://github.com/co-Palko/Develop_board_CC2652R_v1/tree/main/gerber/) and BOM files are attached to the production order, and the size of the components is suitable for independent assembly. The schematic diagram of the device is presented at [LINK](https://github.com/co-Palko/Dev_board_CC2652R_v1/blob/main/images/Schematic_Devboard_mini_cc2652r-v1.png).  
+
 Link to open project at [EasyEDA](https://oshwlab.com/Palko/devborda_mini-cc2652r-v2).
   
   
